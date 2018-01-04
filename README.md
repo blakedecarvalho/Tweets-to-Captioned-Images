@@ -6,7 +6,7 @@ Background: Had roughly 2000 or so poetry tweets that I wanted to put onto moody
 # Steps:
 1.  Download your tweets into a CSV from your Twitter Profile (via the Settings Menu)
 2.  Copy your tweets into a txt file, and clean up @replies with regex.
-3.  Place a "\" in front of all spaces and punctuation marks.  (Easily done via Atom's replace tool i.e. Replace " " with "\ ")
+3.  Place a \ in front of all spaces and punctuation marks.  (Easily done via Atom's replace tool i.e. Replace " " with "\ ")
 4.  Make sure you have enough images as you have tweets
               
       - Make sure they are named via number and all the same format. Helpful programs are [Bulk Rename Utility](http://www.bulkrenameutility.co.uk/Main_Intro.php) and [Bulk Image Converter](https://sourceforge.net/projects/bulkimageconver/)
